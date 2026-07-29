@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed! 👋
+# Hi there, I'm Mohammed! 👋
 
 I am an Artificial Intelligence Bachelor's student and a Full-Stack Python Developer. My passion lies at the intersection of robust web architecture and intelligent algorithms. 
 
